@@ -7,7 +7,7 @@
 ## 里面有什么
 
 ```
-stickers/whale-<编号>.jpg   56 张，统一 512×512 方形，JPEG q88
+stickers/whale-<编号>.jpg   79 张，统一 512×512 方形，JPEG q88
 index.json                  编号 → 情绪标签 / 原始台词 / 来源
 ```
 
