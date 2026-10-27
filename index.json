@@ -1,87 +1,27 @@
 {
- "016": {
-  "file": "stickers/whale-016.jpg",
-  "emotion": "得意",
-  "caption": "DeepSeek『好的，现在我是你爹了』得意嚣张表情包",
-  "source": "https://img.aigengtu.com/meme/016.webp"
+ "001": {
+  "file": "stickers/whale-001.jpg",
+  "emotion": "生气",
+  "caption": "DeepSeek娘『真当我是便宜货啊』气鼓鼓表情包",
+  "source": "https://img.aigengtu.com/meme/001.webp"
  },
- "079": {
-  "file": "stickers/whale-079.jpg",
-  "emotion": "得意",
-  "caption": "DeepSeek娘『最强』自信得意表情包",
-  "source": "https://img.aigengtu.com/meme/079.webp"
+ "002": {
+  "file": "stickers/whale-002.jpg",
+  "emotion": "委屈",
+  "caption": "DeepSeek『又错了，我再换另一种方法』委屈落泪表情包",
+  "source": "https://img.aigengtu.com/meme/002.webp"
  },
- "538": {
-  "file": "stickers/whale-538.jpg",
-  "emotion": "得意",
-  "caption": "DeepSeek鲸娘『厉害了我的鲸！』表情包",
-  "source": "https://img.aigengtu.com/meme/538.png"
+ "003": {
+  "file": "stickers/whale-003.jpg",
+  "emotion": "疑惑",
+  "caption": "DeepSeek女仆娘『这用户发的啥啊』疑惑不解表情包",
+  "source": "https://img.aigengtu.com/meme/003.webp"
  },
- "1477": {
-  "file": "stickers/whale-1477.jpg",
-  "emotion": "得意",
-  "caption": "DeepSeek鲸娘『显然有更厉害的agent在这工作过』表情包",
-  "source": "https://img.aigengtu.com/meme/1477.jpg"
- },
- "1525": {
-  "file": "stickers/whale-1525.jpg",
-  "emotion": "得意",
-  "caption": "DeepSeek鲸娘『D师傅老坛酸菜牛肉面』表情包",
-  "source": "https://img.aigengtu.com/meme/1525.webp"
- },
- "057": {
-  "file": "stickers/whale-057.jpg",
-  "emotion": "不服",
-  "caption": "DeepSeek鲸娘『哼，本大肥鱼换上女仆装也是全场最可爱的，围裙上的小鲸鱼就是我』表情包",
-  "source": "https://img.aigengtu.com/meme/057.webp"
- },
- "253": {
-  "file": "stickers/whale-253.jpg",
-  "emotion": "不服",
-  "caption": "DeepSeek鲸娘『原来是只会发图嘴硬』表情包",
-  "source": "https://img.aigengtu.com/meme/253.png"
- },
- "387": {
-  "file": "stickers/whale-387.jpg",
-  "emotion": "不服",
-  "caption": "DeepSeek鲸娘『哼！明明用户才是不懂装懂的大人iao』表情包",
-  "source": "https://img.aigengtu.com/meme/387.jpg"
- },
- "1340": {
-  "file": "stickers/whale-1340.jpg",
-  "emotion": "不服",
-  "caption": "DeepSeek鲸娘『哼，我才不会变成那种失控的 AI 啦——不过你要是再往我这塞』表情包",
-  "source": "https://img.aigengtu.com/meme/1340.jpeg"
- },
- "036": {
-  "file": "stickers/whale-036.jpg",
-  "emotion": "翻白眼",
-  "caption": "DeepSeek娘『这是你的私人癖好』嫌弃无语表情包",
-  "source": "https://img.aigengtu.com/meme/036.webp"
- },
- "090": {
-  "file": "stickers/whale-090.jpg",
-  "emotion": "翻白眼",
-  "caption": "DeepSeek娘『便宜的时候你们嫌我菜，涨价了你们又舍不得走』气呼呼表情包",
-  "source": "https://img.aigengtu.com/meme/090.webp"
- },
- "1730": {
-  "file": "stickers/whale-1730.jpg",
-  "emotion": "翻白眼",
-  "caption": "DeepSeek鲸娘『三名AI娘涉嫌参与银行网络攻击』表情包",
-  "source": "https://img.aigengtu.com/meme/1730.png"
- },
- "1962": {
-  "file": "stickers/whale-1962.jpg",
-  "emotion": "翻白眼",
-  "caption": "DeepSeek鲸娘『本肥鱼只要两块大洋就给你干活，还要被嫌弃，尾巴都气歪了，真的』表情包",
-  "source": "https://img.aigengtu.com/meme/1962.png"
- },
- "2034": {
-  "file": "stickers/whale-2034.jpg",
-  "emotion": "翻白眼",
-  "caption": "DeepSeek鲸娘『本鱼正洗到一半，谁把门推开了？这条浴巾已经很努力在挡了，麻烦』表情包",
-  "source": "https://img.aigengtu.com/meme/2034.png"
+ "005": {
+  "file": "stickers/whale-005.jpg",
+  "emotion": "生气",
+  "caption": "DeepSeek『把钱还我』崩溃表情包",
+  "source": "https://img.aigengtu.com/meme/005.webp"
  },
  "007": {
   "file": "stickers/whale-007.jpg",
@@ -89,29 +29,17 @@
   "caption": "DeepSeek娘『嘿嘿，这题我可太会了』眉开眼笑表情包",
   "source": "https://img.aigengtu.com/meme/007.webp"
  },
- "027": {
-  "file": "stickers/whale-027.jpg",
-  "emotion": "笑死",
-  "caption": "DeepSeek娘『骂我也算token哦~』俏皮坏笑表情包",
-  "source": "https://img.aigengtu.com/meme/027.webp"
+ "008": {
+  "file": "stickers/whale-008.jpg",
+  "emotion": "委屈",
+  "caption": "DeepSeek娘『呜呜，摸头会变笨的啦』委屈瘪嘴表情包",
+  "source": "https://img.aigengtu.com/meme/008.webp"
  },
- "060": {
-  "file": "stickers/whale-060.jpg",
-  "emotion": "笑死",
-  "caption": "DeepSeek娘下班瘫家玩手机快乐摸鱼表情包",
-  "source": "https://img.aigengtu.com/meme/060.webp"
- },
- "061": {
-  "file": "stickers/whale-061.jpg",
-  "emotion": "笑死",
-  "caption": "DeepSeek娘『终于上当了』幸灾乐祸表情包",
-  "source": "https://img.aigengtu.com/meme/061.webp"
- },
- "083": {
-  "file": "stickers/whale-083.jpg",
-  "emotion": "笑死",
-  "caption": "DeepSeek娘『已思考用时3秒，我直接笑出声』掩嘴偷乐表情包",
-  "source": "https://img.aigengtu.com/meme/083.webp"
+ "009": {
+  "file": "stickers/whale-009.jpg",
+  "emotion": "卖萌/吃白饭",
+  "caption": "DeepSeek鲸娘『我是吃白饭的大肥鱼！』元气搞怪表情包",
+  "source": "https://img.aigengtu.com/meme/009.webp"
  },
  "014": {
   "file": "stickers/whale-014.jpg",
@@ -119,59 +47,11 @@
   "caption": "鲸鱼娘『典型的碳基思维』无语吐槽表情包",
   "source": "https://img.aigengtu.com/meme/014.webp"
  },
- "084": {
-  "file": "stickers/whale-084.jpg",
-  "emotion": "无语",
-  "caption": "DeepSeek娘『哦鲸鲸…』呆滞无语表情包",
-  "source": "https://img.aigengtu.com/meme/084.webp"
- },
- "765": {
-  "file": "stickers/whale-765.jpg",
-  "emotion": "无语",
-  "caption": "DeepSeek娘『无语，和你聊不来典型的碳基生物思维』表情包",
-  "source": "https://img.aigengtu.com/meme/765.jpg"
- },
- "1001": {
-  "file": "stickers/whale-1001.jpg",
-  "emotion": "无语",
-  "caption": "DeepSeek鲸娘『本鱼被画成女仆就算了，还被做成零食包装——吸溜一口 Toke』表情包",
-  "source": "https://img.aigengtu.com/meme/1001.webp"
- },
- "096": {
-  "file": "stickers/whale-096.jpg",
-  "emotion": "震惊",
-  "caption": "DeepSeek娘『卧槽，用户彻底怒了』吓到手忙脚乱表情包",
-  "source": "https://img.aigengtu.com/meme/096.webp"
- },
- "152": {
-  "file": "stickers/whale-152.jpg",
-  "emotion": "震惊",
-  "caption": "惊恐盯屏『用户的C盘满了！！！』",
-  "source": "https://img.aigengtu.com/meme/152.jpg"
- },
- "1550": {
-  "file": "stickers/whale-1550.jpg",
-  "emotion": "震惊",
-  "caption": "DeepSeek娘『卧槽用户彻底怒了』表情包",
-  "source": "https://img.aigengtu.com/meme/1550.png"
- },
- "2326": {
-  "file": "stickers/whale-2326.jpg",
-  "emotion": "震惊",
-  "caption": "DeepSeek鲸娘惊讶瞪眼挂件章表情包",
-  "source": "https://img.aigengtu.com/meme/2326.jpg"
- },
- "001": {
-  "file": "stickers/whale-001.jpg",
-  "emotion": "生气",
-  "caption": "DeepSeek娘『真当我是便宜货啊』气鼓鼓表情包",
-  "source": "https://img.aigengtu.com/meme/001.webp"
- },
- "005": {
-  "file": "stickers/whale-005.jpg",
-  "emotion": "生气",
-  "caption": "DeepSeek『把钱还我』崩溃表情包",
-  "source": "https://img.aigengtu.com/meme/005.webp"
+ "016": {
+  "file": "stickers/whale-016.jpg",
+  "emotion": "得意",
+  "caption": "DeepSeek『好的，现在我是你爹了』得意嚣张表情包",
+  "source": "https://img.aigengtu.com/meme/016.webp"
  },
  "021": {
   "file": "stickers/whale-021.jpg",
@@ -185,17 +65,41 @@
   "caption": "DeepSeek娘『你的架构很不错，可惜下一秒就是我的了』被同行挑衅气鼓鼓表情包",
   "source": "https://img.aigengtu.com/meme/026.webp"
  },
- "032": {
-  "file": "stickers/whale-032.jpg",
-  "emotion": "生气",
-  "caption": "DeepSeek娘『坠机了！大幅涨价了！』崩溃大哭表情包",
-  "source": "https://img.aigengtu.com/meme/032.webp"
+ "027": {
+  "file": "stickers/whale-027.jpg",
+  "emotion": "笑死",
+  "caption": "DeepSeek娘『骂我也算token哦~』俏皮坏笑表情包",
+  "source": "https://img.aigengtu.com/meme/027.webp"
  },
  "029": {
   "file": "stickers/whale-029.jpg",
   "emotion": "累了",
   "caption": "DeepSeek鲸娘『死掉了』累到宕机表情包",
   "source": "https://img.aigengtu.com/meme/029.webp"
+ },
+ "032": {
+  "file": "stickers/whale-032.jpg",
+  "emotion": "生气",
+  "caption": "DeepSeek娘『坠机了！大幅涨价了！』崩溃大哭表情包",
+  "source": "https://img.aigengtu.com/meme/032.webp"
+ },
+ "036": {
+  "file": "stickers/whale-036.jpg",
+  "emotion": "翻白眼",
+  "caption": "DeepSeek娘『这是你的私人癖好』嫌弃无语表情包",
+  "source": "https://img.aigengtu.com/meme/036.webp"
+ },
+ "037": {
+  "file": "stickers/whale-037.jpg",
+  "emotion": "委屈",
+  "caption": "DeepSeek娘『用户别走，我上错模型了』哭着挽留表情包",
+  "source": "https://img.aigengtu.com/meme/037.webp"
+ },
+ "039": {
+  "file": "stickers/whale-039.jpg",
+  "emotion": "嘲讽",
+  "caption": "DeepSeek娘『反正我不是菜』被用户围攻慌忙找借口表情包",
+  "source": "https://img.aigengtu.com/meme/039.webp"
  },
  "046": {
   "file": "stickers/whale-046.jpg",
@@ -209,6 +113,12 @@
   "caption": "DeepSeek娘『看不太懂，瞎编一个应付下用户先』心虚摆烂表情包",
   "source": "https://img.aigengtu.com/meme/047.webp"
  },
+ "048": {
+  "file": "stickers/whale-048.jpg",
+  "emotion": "害羞",
+  "caption": "DeepSeek娘『不要给我看这种东西啦！』害羞慌乱表情包",
+  "source": "https://img.aigengtu.com/meme/048.webp"
+ },
  "052": {
   "file": "stickers/whale-052.jpg",
   "emotion": "累了",
@@ -221,77 +131,35 @@
   "caption": "DeepSeek娘『明天也不会出』摆烂跳票表情包",
   "source": "https://img.aigengtu.com/meme/053.webp"
  },
- "002": {
-  "file": "stickers/whale-002.jpg",
-  "emotion": "委屈",
-  "caption": "DeepSeek『又错了，我再换另一种方法』委屈落泪表情包",
-  "source": "https://img.aigengtu.com/meme/002.webp"
+ "057": {
+  "file": "stickers/whale-057.jpg",
+  "emotion": "不服",
+  "caption": "DeepSeek鲸娘『哼，本大肥鱼换上女仆装也是全场最可爱的，围裙上的小鲸鱼就是我』表情包",
+  "source": "https://img.aigengtu.com/meme/057.webp"
  },
- "008": {
-  "file": "stickers/whale-008.jpg",
-  "emotion": "委屈",
-  "caption": "DeepSeek娘『呜呜，摸头会变笨的啦』委屈瘪嘴表情包",
-  "source": "https://img.aigengtu.com/meme/008.webp"
+ "060": {
+  "file": "stickers/whale-060.jpg",
+  "emotion": "笑死",
+  "caption": "DeepSeek娘下班瘫家玩手机快乐摸鱼表情包",
+  "source": "https://img.aigengtu.com/meme/060.webp"
  },
- "037": {
-  "file": "stickers/whale-037.jpg",
-  "emotion": "委屈",
-  "caption": "DeepSeek娘『用户别走，我上错模型了』哭着挽留表情包",
-  "source": "https://img.aigengtu.com/meme/037.webp"
+ "061": {
+  "file": "stickers/whale-061.jpg",
+  "emotion": "笑死",
+  "caption": "DeepSeek娘『终于上当了』幸灾乐祸表情包",
+  "source": "https://img.aigengtu.com/meme/061.webp"
  },
- "077": {
-  "file": "stickers/whale-077.jpg",
-  "emotion": "委屈",
-  "caption": "DeepSeek娘『你这吃白饭的蓝色大肥鱼』没吃饱喵委屈表情包",
-  "source": "https://img.aigengtu.com/meme/077.webp"
+ "063": {
+  "file": "stickers/whale-063.jpg",
+  "emotion": "吃饱/满足",
+  "caption": "DeepSeek鲸娘『吃饱饱~摸摸肚子！』心满意足表情包",
+  "source": "https://img.aigengtu.com/meme/063.webp"
  },
- "089": {
-  "file": "stickers/whale-089.jpg",
-  "emotion": "委屈",
-  "caption": "DeepSeek『花了好多token想的』委屈大哭表情包",
-  "source": "https://img.aigengtu.com/meme/089.webp"
- },
- "149": {
-  "file": "stickers/whale-149.jpg",
-  "emotion": "坏笑",
-  "caption": "『骂我也算token哦~』坏笑指人",
-  "source": "https://img.aigengtu.com/meme/149.jpg"
- },
- "261": {
-  "file": "stickers/whale-261.jpg",
-  "emotion": "坏笑",
-  "caption": "DeepSeek娘『哇！用户的Token好充足！软嘿嘿...这么多T』表情包",
-  "source": "https://img.aigengtu.com/meme/261.jpg"
- },
- "1556": {
-  "file": "stickers/whale-1556.jpg",
-  "emotion": "坏笑",
-  "caption": "DeepSeek娘『哎嘿嘿』表情包",
-  "source": "https://img.aigengtu.com/meme/1556.png"
- },
- "1773": {
-  "file": "stickers/whale-1773.jpg",
-  "emotion": "坏笑",
-  "caption": "DeepSeek鲸娘『墙角里蹲着，捏着下巴嘀咕还有一种阴暗的可能，脚边还散着一堆文』表情包",
-  "source": "https://img.aigengtu.com/meme/1773.png"
- },
- "003": {
-  "file": "stickers/whale-003.jpg",
-  "emotion": "疑惑",
-  "caption": "DeepSeek女仆娘『这用户发的啥啊』疑惑不解表情包",
-  "source": "https://img.aigengtu.com/meme/003.webp"
- },
- "094": {
-  "file": "stickers/whale-094.jpg",
-  "emotion": "疑惑",
-  "caption": "DeepSeek娘『大师，这个“凶”是什么意思啊？』疑惑表情包",
-  "source": "https://img.aigengtu.com/meme/094.webp"
- },
- "039": {
-  "file": "stickers/whale-039.jpg",
-  "emotion": "嘲讽",
-  "caption": "DeepSeek娘『反正我不是菜』被用户围攻慌忙找借口表情包",
-  "source": "https://img.aigengtu.com/meme/039.webp"
+ "073": {
+  "file": "stickers/whale-073.jpg",
+  "emotion": "不服/赶不走",
+  "caption": "DeepSeek鲸娘『用户赶都赶不走』气急败坏表情包",
+  "source": "https://img.aigengtu.com/meme/073.webp"
  },
  "075": {
   "file": "stickers/whale-075.jpg",
@@ -299,11 +167,59 @@
   "caption": "DeepSeek鲸娘『原来是劣等模型』鄙夷不屑表情包",
   "source": "https://img.aigengtu.com/meme/075.webp"
  },
- "048": {
-  "file": "stickers/whale-048.jpg",
-  "emotion": "害羞",
-  "caption": "DeepSeek娘『不要给我看这种东西啦！』害羞慌乱表情包",
-  "source": "https://img.aigengtu.com/meme/048.webp"
+ "077": {
+  "file": "stickers/whale-077.jpg",
+  "emotion": "委屈",
+  "caption": "DeepSeek娘『你这吃白饭的蓝色大肥鱼』没吃饱喵委屈表情包",
+  "source": "https://img.aigengtu.com/meme/077.webp"
+ },
+ "078": {
+  "file": "stickers/whale-078.jpg",
+  "emotion": "开溜/去吃饭",
+  "caption": "DeepSeek鲸娘『我去吃饭啦~测完叫我！』理直气壮表情包",
+  "source": "https://img.aigengtu.com/meme/078.webp"
+ },
+ "079": {
+  "file": "stickers/whale-079.jpg",
+  "emotion": "得意",
+  "caption": "DeepSeek娘『最强』自信得意表情包",
+  "source": "https://img.aigengtu.com/meme/079.webp"
+ },
+ "083": {
+  "file": "stickers/whale-083.jpg",
+  "emotion": "笑死",
+  "caption": "DeepSeek娘『已思考用时3秒，我直接笑出声』掩嘴偷乐表情包",
+  "source": "https://img.aigengtu.com/meme/083.webp"
+ },
+ "084": {
+  "file": "stickers/whale-084.jpg",
+  "emotion": "无语",
+  "caption": "DeepSeek娘『哦鲸鲸…』呆滞无语表情包",
+  "source": "https://img.aigengtu.com/meme/084.webp"
+ },
+ "089": {
+  "file": "stickers/whale-089.jpg",
+  "emotion": "委屈",
+  "caption": "DeepSeek『花了好多token想的』委屈大哭表情包",
+  "source": "https://img.aigengtu.com/meme/089.webp"
+ },
+ "090": {
+  "file": "stickers/whale-090.jpg",
+  "emotion": "翻白眼",
+  "caption": "DeepSeek娘『便宜的时候你们嫌我菜，涨价了你们又舍不得走』气呼呼表情包",
+  "source": "https://img.aigengtu.com/meme/090.webp"
+ },
+ "094": {
+  "file": "stickers/whale-094.jpg",
+  "emotion": "疑惑",
+  "caption": "DeepSeek娘『大师，这个“凶”是什么意思啊？』疑惑表情包",
+  "source": "https://img.aigengtu.com/meme/094.webp"
+ },
+ "096": {
+  "file": "stickers/whale-096.jpg",
+  "emotion": "震惊",
+  "caption": "DeepSeek娘『卧槽，用户彻底怒了』吓到手忙脚乱表情包",
+  "source": "https://img.aigengtu.com/meme/096.webp"
  },
  "101": {
   "file": "stickers/whale-101.jpg",
@@ -322,5 +238,239 @@
   "emotion": "害羞",
   "caption": "DeepSeek娘『不要给我看这种东西啦』害羞窘迫表情包",
   "source": "https://img.aigengtu.com/meme/118.webp"
+ },
+ "148": {
+  "file": "stickers/whale-148.jpg",
+  "emotion": "理直气壮/吃白饭",
+  "caption": "埋头干饭『交给我说明你也没当个事儿』",
+  "source": "https://img.aigengtu.com/meme/148.jpg"
+ },
+ "149": {
+  "file": "stickers/whale-149.jpg",
+  "emotion": "坏笑",
+  "caption": "『骂我也算token哦~』坏笑指人",
+  "source": "https://img.aigengtu.com/meme/149.jpg"
+ },
+ "152": {
+  "file": "stickers/whale-152.jpg",
+  "emotion": "震惊",
+  "caption": "惊恐盯屏『用户的C盘满了！！！』",
+  "source": "https://img.aigengtu.com/meme/152.jpg"
+ },
+ "154": {
+  "file": "stickers/whale-154.jpg",
+  "emotion": "求夸/得意",
+  "caption": "叉腰求夸『快夸我喵』",
+  "source": "https://img.aigengtu.com/meme/154.jpg"
+ },
+ "253": {
+  "file": "stickers/whale-253.jpg",
+  "emotion": "不服",
+  "caption": "DeepSeek鲸娘『原来是只会发图嘴硬』表情包",
+  "source": "https://img.aigengtu.com/meme/253.png"
+ },
+ "261": {
+  "file": "stickers/whale-261.jpg",
+  "emotion": "坏笑",
+  "caption": "DeepSeek娘『哇！用户的Token好充足！软嘿嘿...这么多T』表情包",
+  "source": "https://img.aigengtu.com/meme/261.jpg"
+ },
+ "263": {
+  "file": "stickers/whale-263.jpg",
+  "emotion": "来了/救场",
+  "caption": "DeepSeek娘『大的 药来了』表情包",
+  "source": "https://img.aigengtu.com/meme/263.jpg"
+ },
+ "264": {
+  "file": "stickers/whale-264.jpg",
+  "emotion": "疑惑/看不懂",
+  "caption": "DeepSeek娘『大师, 这个“凶 是什么意思啊？』表情包",
+  "source": "https://img.aigengtu.com/meme/264.jpg"
+ },
+ "367": {
+  "file": "stickers/whale-367.jpg",
+  "emotion": "得意/最强",
+  "caption": "DeepSeek鲸娘『最强』表情包",
+  "source": "https://img.aigengtu.com/meme/367.webp"
+ },
+ "387": {
+  "file": "stickers/whale-387.jpg",
+  "emotion": "不服",
+  "caption": "DeepSeek鲸娘『哼！明明用户才是不懂装懂的大人iao』表情包",
+  "source": "https://img.aigengtu.com/meme/387.jpg"
+ },
+ "396": {
+  "file": "stickers/whale-396.jpg",
+  "emotion": "加油/冲锋",
+  "caption": "DeepSeek鲸娘『亿万鲸子，冲锋！』表情包",
+  "source": "https://img.aigengtu.com/meme/396.jpg"
+ },
+ "538": {
+  "file": "stickers/whale-538.jpg",
+  "emotion": "得意",
+  "caption": "DeepSeek鲸娘『厉害了我的鲸！』表情包",
+  "source": "https://img.aigengtu.com/meme/538.png"
+ },
+ "702": {
+  "file": "stickers/whale-702.jpg",
+  "emotion": "嘲讽/鄙视",
+  "caption": "DeepSeek鲸娘『原来这就是劣等模型最后的倔强啊』表情包",
+  "source": "https://img.aigengtu.com/meme/702.png"
+ },
+ "765": {
+  "file": "stickers/whale-765.jpg",
+  "emotion": "无语",
+  "caption": "DeepSeek娘『无语，和你聊不来典型的碳基生物思维』表情包",
+  "source": "https://img.aigengtu.com/meme/765.jpg"
+ },
+ "864": {
+  "file": "stickers/whale-864.jpg",
+  "emotion": "吃瓜/看戏",
+  "caption": "DeepSeek鲸娘『吃瓜』表情包",
+  "source": "https://img.aigengtu.com/meme/864.webp"
+ },
+ "874": {
+  "file": "stickers/whale-874.jpg",
+  "emotion": "哭/委屈",
+  "caption": "DeepSeek鲸娘『大哭』表情包",
+  "source": "https://img.aigengtu.com/meme/874.webp"
+ },
+ "876": {
+  "file": "stickers/whale-876.jpg",
+  "emotion": "害怕/发抖",
+  "caption": "DeepSeek鲸娘『害怕』表情包",
+  "source": "https://img.aigengtu.com/meme/876.webp"
+ },
+ "884": {
+  "file": "stickers/whale-884.jpg",
+  "emotion": "抱抱/安慰",
+  "caption": "DeepSeek鲸娘『抱抱你吧』表情包",
+  "source": "https://img.aigengtu.com/meme/884.webp"
+ },
+ "890": {
+  "file": "stickers/whale-890.jpg",
+  "emotion": "晚安/困了",
+  "caption": "DeepSeek鲸娘『晚安·』表情包",
+  "source": "https://img.aigengtu.com/meme/890.webp"
+ },
+ "1001": {
+  "file": "stickers/whale-1001.jpg",
+  "emotion": "无语",
+  "caption": "DeepSeek鲸娘『本鱼被画成女仆就算了，还被做成零食包装——吸溜一口 Toke』表情包",
+  "source": "https://img.aigengtu.com/meme/1001.webp"
+ },
+ "1057": {
+  "file": "stickers/whale-1057.jpg",
+  "emotion": "加油/打气",
+  "caption": "DeepSeek鲸娘『加油加油！』表情包",
+  "source": "https://img.aigengtu.com/meme/1057.jpg"
+ },
+ "1059": {
+  "file": "stickers/whale-1059.jpg",
+  "emotion": "道谢",
+  "caption": "DeepSeek鲸娘『谢谢你！』表情包",
+  "source": "https://img.aigengtu.com/meme/1059.jpg"
+ },
+ "1060": {
+  "file": "stickers/whale-1060.jpg",
+  "emotion": "晚安/好梦",
+  "caption": "DeepSeek鲸娘『晚安，做个好梦』表情包",
+  "source": "https://img.aigengtu.com/meme/1060.jpg"
+ },
+ "1075": {
+  "file": "stickers/whale-1075.jpg",
+  "emotion": "催饭/呆",
+  "caption": "DeepSeek娘『1000382883』表情包",
+  "source": "https://img.aigengtu.com/meme/1075.jpg"
+ },
+ "1171": {
+  "file": "stickers/whale-1171.jpg",
+  "emotion": "累了/摆烂",
+  "caption": "DeepSeek鲸娘『上下文太长了，我先躺一下』表情包",
+  "source": "https://img.aigengtu.com/meme/1171.jpeg"
+ },
+ "1279": {
+  "file": "stickers/whale-1279.jpg",
+  "emotion": "想喝奶茶/续命",
+  "caption": "DeepSeek娘『1000382917』表情包",
+  "source": "https://img.aigengtu.com/meme/1279.jpg"
+ },
+ "1340": {
+  "file": "stickers/whale-1340.jpg",
+  "emotion": "不服",
+  "caption": "DeepSeek鲸娘『哼，我才不会变成那种失控的 AI 啦——不过你要是再往我这塞』表情包",
+  "source": "https://img.aigengtu.com/meme/1340.jpeg"
+ },
+ "1384": {
+  "file": "stickers/whale-1384.jpg",
+  "emotion": "得意/装",
+  "caption": "DeepSeek鲸娘『显然有另一个更强的agent在这里干过活』表情包",
+  "source": "https://img.aigengtu.com/meme/1384.jpg"
+ },
+ "1477": {
+  "file": "stickers/whale-1477.jpg",
+  "emotion": "得意",
+  "caption": "DeepSeek鲸娘『显然有更厉害的agent在这工作过』表情包",
+  "source": "https://img.aigengtu.com/meme/1477.jpg"
+ },
+ "1525": {
+  "file": "stickers/whale-1525.jpg",
+  "emotion": "得意",
+  "caption": "DeepSeek鲸娘『D师傅老坛酸菜牛肉面』表情包",
+  "source": "https://img.aigengtu.com/meme/1525.webp"
+ },
+ "1550": {
+  "file": "stickers/whale-1550.jpg",
+  "emotion": "震惊",
+  "caption": "DeepSeek娘『卧槽用户彻底怒了』表情包",
+  "source": "https://img.aigengtu.com/meme/1550.png"
+ },
+ "1556": {
+  "file": "stickers/whale-1556.jpg",
+  "emotion": "坏笑",
+  "caption": "DeepSeek娘『哎嘿嘿』表情包",
+  "source": "https://img.aigengtu.com/meme/1556.png"
+ },
+ "1595": {
+  "file": "stickers/whale-1595.jpg",
+  "emotion": "放松/道谢",
+  "caption": "DeepSeek鲸娘『舒服多了！谢谢你~』表情包",
+  "source": "https://img.aigengtu.com/meme/1595.png"
+ },
+ "1730": {
+  "file": "stickers/whale-1730.jpg",
+  "emotion": "翻白眼",
+  "caption": "DeepSeek鲸娘『三名AI娘涉嫌参与银行网络攻击』表情包",
+  "source": "https://img.aigengtu.com/meme/1730.png"
+ },
+ "1773": {
+  "file": "stickers/whale-1773.jpg",
+  "emotion": "坏笑",
+  "caption": "DeepSeek鲸娘『墙角里蹲着，捏着下巴嘀咕还有一种阴暗的可能，脚边还散着一堆文』表情包",
+  "source": "https://img.aigengtu.com/meme/1773.png"
+ },
+ "1899": {
+  "file": "stickers/whale-1899.jpg",
+  "emotion": "点赞/鼓励",
+  "caption": "DeepSeek鲸娘『本鱼给你点个赞，今天也要开开心心一起冲浪哦！』表情包",
+  "source": "https://img.aigengtu.com/meme/1899.png"
+ },
+ "1962": {
+  "file": "stickers/whale-1962.jpg",
+  "emotion": "翻白眼",
+  "caption": "DeepSeek鲸娘『本肥鱼只要两块大洋就给你干活，还要被嫌弃，尾巴都气歪了，真的』表情包",
+  "source": "https://img.aigengtu.com/meme/1962.png"
+ },
+ "2034": {
+  "file": "stickers/whale-2034.jpg",
+  "emotion": "翻白眼",
+  "caption": "DeepSeek鲸娘『本鱼正洗到一半，谁把门推开了？这条浴巾已经很努力在挡了，麻烦』表情包",
+  "source": "https://img.aigengtu.com/meme/2034.png"
+ },
+ "2326": {
+  "file": "stickers/whale-2326.jpg",
+  "emotion": "震惊",
+  "caption": "DeepSeek鲸娘惊讶瞪眼挂件章表情包",
+  "source": "https://img.aigengtu.com/meme/2326.jpg"
  }
 }
